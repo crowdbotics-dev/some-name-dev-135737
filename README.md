@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-push-notifications](backend/modules)
 - [django-two-factor-authentication](backend/modules)
+- [react-native-2fa](modules/2fa)
 
 # Getting started: Frontend
 
